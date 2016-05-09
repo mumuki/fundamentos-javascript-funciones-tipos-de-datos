@@ -3,9 +3,19 @@
 ¡Simple! Basta con poner el nombre de la funcion, y entre paréntesis, su argumentos, como veníamos haciendo: 
 
 ```javascript
-> doble(3)
-6
+doble(3)
 ```
 
-Ah, pero pará, pará, ¿qué ese ese chirimbolo `>`?
+¡Y además podemos usarlas dentro de otras funciones! Por ejemplo: 
 
+```javascript
+function doble(numero) {
+  return 2 * numero
+}
+
+function siguienteDelDoble(numero) {
+   return doble(numero) + 1;
+}
+```
+
+> Veamos si se entiende: escribí una función 
