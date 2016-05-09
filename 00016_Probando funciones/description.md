@@ -15,7 +15,7 @@ estamos dando un ejemplo que muestra qué sucede cuando probás la función Math
 > Veamos si se entiende, probá en la consola las siguientes expresiones: 
 >  
 >   * `4 + 5`
->   * `Math.random()`
+>   * `Math.random()` (en breve veremos qué es esto :open_mouth:)
 >   * `funcionLoca(1, 2, 3)` (asumí que ya la codificamos nosotros por vos)
 
 
