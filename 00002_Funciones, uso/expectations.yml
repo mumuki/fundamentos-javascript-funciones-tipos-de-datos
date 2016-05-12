@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: HasUsage:triple
+  inspection: anteriorDelTriple
+- binding: HasUsage:anterior
+  inspection: anteriorDelTriple
+- binding: HasBinding
+  inspection: tripe
+- binding: HasBinding
+  inspection: anterior
+- binding: HasBinding
+  inspection: anterirorDelTriple
