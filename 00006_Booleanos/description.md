@@ -9,3 +9,15 @@ Miremos a los booleanos con un poco más de detalle:
 > * `estaEntre`, que tome tres números y diga si el primero es mayor al segundo y menor al tercero. 
 > * `estaFueraDeRango`: que tome tres números y diga si el primero es menor al segundo o mayor al tercero
 > 
+> Ejemplos: 
+> ```javascript
+> ム estaEntre(3, 1, 10)
+> true
+> ム estaEntre(90, 1, 10)
+> false
+> ム estaEntre(10, 1, 10)
+> false
+> ム estaFueraDeRango(17, 1, 10)
+> true
+>  ```
+>
