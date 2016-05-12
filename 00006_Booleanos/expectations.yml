@@ -1,0 +1,6 @@
+---
+expectations:
+- inspection: HasBinding
+  binding: estaEntre
+- binding: estaFueraDeRango
+  inspection: HasBinding
