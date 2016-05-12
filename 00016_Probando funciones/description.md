@@ -6,11 +6,11 @@ Por eso muchas veces daremos ejemplos usando la consola. Si escribimos:
 
 
 ```javascript
-ム Math.abs(-20)
-20
+ム miFuncion(20)
+2
 ```
 
-estamos dando un ejemplo que muestra qué sucede cuando probás la función Math.abs en la consola. Los podés reconocer fácilmente porque arrancan todos con el chirimbolito `ム`, que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_. 
+estamos dando un ejemplo que muestra qué sucede cuando probás `miFuncion` en la consola. Podés reconocer fácilmente a estos ejemplos porque arrancan todos con un  _[prompt](https://es.wikipedia.org/wiki/Prompt)_, que en mumuki es el chirimbolito `ム` (se pronuncia mu). 
 
 > Veamos si se entiende, probá en la consola las siguientes expresiones: 
 >  

@@ -18,25 +18,4 @@ function siguienteDelDoble(numero) {
 }
 ```
 
-O incluso mejor: 
-
-```javascript
-function doble(numero) {
-  return 2 * numero
-}
-
-function siguiente(numero) {
-  return numero + 1
-}
-
-function siguienteDelDoble(numero) {
-   return siguiente(doble(numero));
-}
-```
-
-> Veamos si se entiende; escribí las siguientes funciones: 
-> 
-> * `anterior`: toma un número y devuelve ese numero menos uno
-> * `triple`: devuelve el triple de un número
-> * `anteriorDelTriple`, que combina las dos funciones anteriores: multiplica a un número por 3 y le resta 1
-> 
+> Veamos si se entiende: escribí una función 
