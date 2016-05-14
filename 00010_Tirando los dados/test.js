@@ -9,6 +9,7 @@ describe("tirarLosDados", function() {
     assert(tirarLosDados() <= 6);
     assert(tirarLosDados() <= 6);
   });
+
   it("tirarLosDados() genera todos los números entre 1 y 6", function() {
     var tiradasSucesivas = new Array(100).fill(1).map(x => tirarLosDados());
     assert(tiradasSucesivas.indexOf(1) >= 0, "genera el 1");
