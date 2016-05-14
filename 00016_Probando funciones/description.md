@@ -1,6 +1,6 @@
 Quizás ya lo notaste, pero a tu izquierda ahora aparece una solapa nueva: la _consola_. 
 
-La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo, que te permite, ingresar expresiones, y probar, por ejemplo operadores, funciones que vengan con JavaScript, o incluso funciones que vos definas en el editor. 
+La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo: te permite, por ejemplo, probar expresiones, funciones que vengan con JavaScript, o incluso funciones que vos definas en el editor. 
 
 Por eso muchas veces daremos ejemplos usando la consola. Si escribimos: 
 
