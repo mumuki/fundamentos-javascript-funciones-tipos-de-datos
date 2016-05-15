@@ -1,4 +1,4 @@
-Empecemos por lo fácil: al igual que en Gobstones, en JavaScript las **funciones** son nuestras herramientas fundamentales: podemos declararlas una vez, y usarlas múltiples veces.
+Empecemos por lo fácil: igual que en Gobstones, en JavaScript las **funciones** son herramientas poderosas: podemos declararlas una vez, y darles múltiples usos.
 
 Sin embargo, cuando aprendés un lenguaje nuevo, te vas a topar con un pequeño detalle: **tiene otra sintaxis** :disappointed_relieved: ¡Y este caso no es la excepción!  ¿Será muy difícil aprender la nueva sintaxis? Veamos nuestra primera función JavaScript:
 
