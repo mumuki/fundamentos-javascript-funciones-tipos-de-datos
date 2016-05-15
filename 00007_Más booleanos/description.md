@@ -24,4 +24,12 @@ function esMayorDeEdad(edad) {
 
 Mucho más simple, ¿no? :wink:
 
-> Veamos si queda claro: escribí la función
+> Jorge dice que para él un número es de la suerte si
+>
+> * es positivo, y
+> * es múltiplo de 2 o de 3, y
+> * no es el 15
+>
+> Escribí la función `esNumeroDeLaSuerte` que dado un número diga si cumple la lógica anterior.
+>
+> **No** usar `if`.
