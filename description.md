@@ -1,4 +1,4 @@
-¡Hola! Quizás no te diste cuenta, pero ya tenés las bases de la programación: ya sabés declarar funciones y procedimientos, usar variables, tomar decisiones empleannodo la estructura de control if, hacer tareas múltiples veces. :sunglasses:
+¡Hola! Quizás no te diste cuenta, pero ya tenés las bases de la programación: ya sabés declarar funciones y procedimientos, usar variables, tomar decisiones empleando la estructura de control if, hacer tareas múltiples veces. :sunglasses:
 
 Sin embargo, como te imaginarás, en los programas "reales" rara vez trabajamos con tableros y bolitas de colores: la programación va más allá de eso. ¿Cómo es entonces esto de vivir fuera del tablero?
 
