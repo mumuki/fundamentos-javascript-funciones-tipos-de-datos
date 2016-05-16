@@ -4,6 +4,11 @@ describe("tirarDado", function() {
     assert(tirarDado() >= 1);
     assert(tirarDado() >= 1);
     assert(tirarDado() >= 1);
+    assert(tirarDado() >= 1);
+    assert(tirarDado() >= 1);
+
+    assert(tirarDado() <= 6);
+    assert(tirarDado() <= 6);
     assert(tirarDado() <= 6);
     assert(tirarDado() <= 6);
     assert(tirarDado() <= 6);
