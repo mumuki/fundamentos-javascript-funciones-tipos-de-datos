@@ -9,6 +9,6 @@ describe("signo", function() {
     assert.equal(signo(0), 0)
   })
   it("signo(-65) es -1", function() {
-    assert.equal(signo(65), -1)
+    assert.equal(signo(-65), -1)
   })
 })
