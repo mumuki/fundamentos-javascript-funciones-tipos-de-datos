@@ -4,4 +4,4 @@ Eso significa que ya estás entrando en calor en el mundo de JavaScript: pudiste
 
 Y por si fuera poco, aprendiste en el camino algunas herramientas nuevas: los strings y los números aleatorios.
 
-¿Querés seguir aprendiendo más? ¡Acompañanos a la siguiente lección!
+¿Querés seguir aprendiendo? ¡Acompañanos a la siguiente lección!
