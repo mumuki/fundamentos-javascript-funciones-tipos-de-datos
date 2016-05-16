@@ -4,7 +4,7 @@ Ahora te toca a vos: tenemos que cargar un calefón con agua :potable_water:. No
 * No está completamente vacío, sino que tiene algo de agua
 * Si cargo el calefón con más agua de que la cabe en el recipiente, rebalsa.
 
-Por eso, necesitamos una función `cuantoCarga`, que tome la cantidad de agua que tiene actualmente el tanque y la cantidad de agua que quiero cargar, y me diga cuanta agua carga efectivamente. Veamos algunos ejemplos:
+Por eso, necesitamos una función que tome la cantidad de agua que tiene actualmente el tanque y la cantidad de agua que quiero cargar, y me diga cuanta agua carga efectivamente. Veamos algunos ejemplos:
 
 ```javascript
 ム cuantoCarga(10, 5) //tiene 10 litros de agua, y lo intento cargar con 5 litros más
@@ -16,3 +16,5 @@ Por eso, necesitamos una función `cuantoCarga`, que tome la cantidad de agua qu
 ム cuantoCarga(25, 5)
 0
 ```
+
+> Escribí la función `cuantoCarga`
