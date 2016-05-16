@@ -1,8 +1,8 @@
 Como acabamos de ver en JavaScript existen al menos números y booleanos. Sin embargo, no son los únicos tipos de datos:
 
-|  Tipo de dato |  Sirve Para Representar |  Ejemplo |  Operaciones que podemos hacer |
+|  Tipo de dato |  Representa             |  Ejemplo |  Operaciones                   |
 |---------------|-------------------------|----------|--------------------------------|
-|Números        |cantidades               | `4947`   | `+`, `-`, `*`, `%`, `<`, etc |
+|Números        |cantidades               | `4947`   | `+`, `-`, `*`, `%`, `<`, etc   |
 |Boolean        |valores de verdad        | `true`   | `&&`, `||`, `!`                |
 |Strings        |texto                    | `"hola"` | ...en breve lo veremos...      |
 |Arrays         |conjuntos de cosas       | `[1, 9]` | ...en breve lo veremos...      |
@@ -19,7 +19,7 @@ Además, existen operaciones que sirven para todos los tipos de datos, por ejemp
 >
 > * `5 + 6` (ok, los números se pueden sumar)
 > * `5 === 6` (ok, todas las cosas se pueden comparar)
-> *`8 > 6` (ok, los números se pueden ordenar)
+> * `8 > 6` (ok, los números se pueden ordenar)
 > * `!true` (ok, los booleanos se pueden _negar_)
 > * `false / true` (no está bien, ¡los booleanos no se pueden dividir!)
 
