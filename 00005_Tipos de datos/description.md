@@ -1,6 +1,6 @@
-Como acabamos de ver en JavaScript existen al menos números y booleanos. Sin embargo, no son los únicos tipos de datos: 
+Como acabamos de ver en JavaScript existen al menos números y booleanos. Sin embargo, no son los únicos tipos de datos:
 
-|: Tipo de dato:|: Sirve Para Representar:|: Ejemplo:|: Operaciones que podemos hacer:|
+|  Tipo de dato |  Sirve Para Representar |  Ejemplo |  Operaciones que podemos hacer |
 |---------------|-------------------------|----------|--------------------------------|
 |Números        |cantidades               | `4947`   | `+`, `-`, `*`, `%`, `<`, etc |
 |Boolean        |valores de verdad        | `true`   | `&&`, `||`, `!`                |
