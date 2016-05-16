@@ -1,7 +1,7 @@
 Ahora te toca a vos: tenemos que cargar un calefón con agua :potable_water:. No parece una tarea difícil pero tenemos que tener en cuenta algunas cosas:
 
 * El calefón tiene 25 litros
-* Está no está completamente vacío, sino que tiene algo de agua
+* No está completamente vacío, sino que tiene algo de agua
 * Si cargo el calefón con más agua de que la cabe en el recipiente, rebalsa.
 
 Por eso, necesitamos una función `cuantoCarga`, que tome la cantidad de agua que tiene actualmente el tanque y la cantidad de agua que quiero cargar, y me diga cuanta agua carga efectivamente. Veamos algunos ejemplos:
