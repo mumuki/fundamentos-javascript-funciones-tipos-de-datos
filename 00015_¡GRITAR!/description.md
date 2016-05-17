@@ -4,7 +4,7 @@ Por ejemplo:
 
 ```javascript
 ム gritar("miguel")
-¡MIGUEL!
+"¡MIGUEL!"
 ```
 
 > Escribí la función `gritar`. Tené en cuenta a un string podés convertirlo a mayúsculas de la siguiente forma: `unString.toUpperCase()`.
