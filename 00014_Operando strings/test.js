@@ -1,4 +1,4 @@
-describe("longitudNombreCompleto", function() {
+describe("", function() {
   it(longitudNombreCompleto("Cosme", "Fulanito"), function() {
     assert.equal(longitudNombreCompleto("Cosme", "Fulanito"), 14);
   });

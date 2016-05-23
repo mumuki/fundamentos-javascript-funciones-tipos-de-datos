@@ -1,4 +1,4 @@
-describe("cuantoCarga", function() {
+describe("", function() {
   it("cuantoCarga(10, 5)", function() {
     assert.equal(cuantoCarga(10, 5), 5);
   });

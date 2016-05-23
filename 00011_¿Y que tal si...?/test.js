@@ -1,4 +1,4 @@
-describe("maximo", function() {
+describe("", function() {
   it("maximo(4, 10) es 10", function() {
     assert.equal(maximo(4, 10), 10);
   });

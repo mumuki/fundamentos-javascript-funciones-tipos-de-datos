@@ -1,4 +1,4 @@
-describe("mitad", function() {
+describe("", function() {
   it("mitad de 2 es 1", function() {
     assert.equal(mitad(2), 1);
   });

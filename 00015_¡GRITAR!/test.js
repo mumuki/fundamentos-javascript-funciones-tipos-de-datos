@@ -1,4 +1,4 @@
-describe("gritar", function() {
+describe("", function() {
   it('gritar("miguel")', function() {
     assert.equal(gritar("miguel"), "¡MIGUEL!");
   });

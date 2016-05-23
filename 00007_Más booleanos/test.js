@@ -1,4 +1,4 @@
-describe("esNumeroDeLaSuerte", () => {
+describe("", () => {
   it("esNumeroDeLaSuerte(2) es verdadero", () => {
       assert(esNumeroDeLaSuerte(2));
   })

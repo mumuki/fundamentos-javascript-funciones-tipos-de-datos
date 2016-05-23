@@ -1,4 +1,4 @@
-describe("esFinDeSemana", function() {
+describe("", function() {
   it('esFinDeSemana("sábado")', function() {
     assert(esFinDeSemana("sábado"));
   });

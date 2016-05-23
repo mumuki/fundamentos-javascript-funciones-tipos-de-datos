@@ -1,4 +1,4 @@
-describe("tirarDado", function() {
+describe("", function() {
   it("tirarDado() siempre devuelve números entre 1 y 6", function() {
     assert(tirarDado() >= 1);
     assert(tirarDado() >= 1);

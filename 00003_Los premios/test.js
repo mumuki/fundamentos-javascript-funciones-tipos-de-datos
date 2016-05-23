@@ -1,4 +1,4 @@
-describe("medallaSegunPuesto", function() {
+describe("", function() {
   it("medallaSegunPuesto(1)", function() {
     assert.equal(medallaSegunPuesto(1), "oro")
   })

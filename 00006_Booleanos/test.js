@@ -1,4 +1,4 @@
-describe("estaEntre", function() {
+describe("", function() {
   it("estaEntre(10, 1, 10) es false", function() {
     assert(!estaEntre(10, 1, 10));
   });

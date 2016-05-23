@@ -1,4 +1,4 @@
-describe('esPar', function() {
+describe('', function() {
   it("esPar(2) es verdadero", function() {
     assert(esPar(2));
   });

@@ -1,4 +1,4 @@
-describe("signo", function() {
+describe("", function() {
   it("signo(10) es 1", function() {
     assert.equal(signo(10), 1)
   });
