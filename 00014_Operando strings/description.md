@@ -1,9 +1,9 @@
 ¿Y que podemos hacer con los strings, además de compararlos? ¡Varias cosas! Por ejemplo, podemos preguntarles cual es su cantidad de letras:
 
 ```javascript
-ム "biblioteca".length
+ム longitud("biblioteca")
 10
-ム "babel".length
+ム longitud("babel")
 5
 ```
 
@@ -19,9 +19,9 @@ O también podemos _concatenarlos_, es decir, obtener **uno nuevo** que junta do
 O podemos preguntarles si uno comienza con otro:
 
 ```javascript
-ム "una página".startsWith("una")
+ム comienzaCon("una página", "una")
 true
-ム "la biblioteca".startsWith("todos los fuegos")
+ム comienzaCon("la biblioteca", "todos los fuegos")
 false
 ```
 

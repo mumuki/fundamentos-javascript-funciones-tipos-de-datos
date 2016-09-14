@@ -1,6 +1,6 @@
-Empecemos por lo fácil: igual que en Gobstones, en JavaScript las **funciones** son herramientas poderosas: podemos declararlas una vez, y darles múltiples usos.
+Gobstones y JavaScript tienen mucho en común. Por ejemplo, en ambos lenguajes podemos declarar **funciones** y usarlas muchas veces. 
 
-Sin embargo, cuando aprendés un lenguaje nuevo, te vas a topar con un pequeño detalle: **tiene otra sintaxis** :disappointed_relieved: ¡Y este caso no es la excepción!  ¿Será muy difícil aprender la nueva sintaxis? Veamos nuestra primera función JavaScript:
+Sin embargo, siempre que aprendas un lenguaje nuevo, te vas a topar con un pequeño detalle: **tiene una sintaxis diferente** :disappointed_relieved: La buena noticia es que el cambio no será tan terrible como suena, así que veamos nuestra primera función JavaScript:
 
 ```javascript
 function doble(numero) {

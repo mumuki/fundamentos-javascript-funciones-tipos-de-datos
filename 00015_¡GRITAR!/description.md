@@ -7,4 +7,4 @@ Por ejemplo:
 "¡MIGUEL!"
 ```
 
-> Escribí la función `gritar`. Tené en cuenta a un string podés convertirlo a mayúsculas de la siguiente forma: `unString.toUpperCase()`.
+> Escribí la función `gritar`. Tené en cuenta que contamos con una función `convertirEnMayuscula`, que, ehm... bueno... convierte en mayúsculas un string :stuck_out_tongue:.
