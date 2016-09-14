@@ -1,13 +1,12 @@
-Ninguna introducción al lenguaje JavaScript estaría completa sin mostrar al menos una estructura de control archiconocida: la estructura condicional, también conocida como `if`.
+Ninguna introducción al lenguaje JavaScript estaría completa sin mostrar al menos una estructura de control que ya conocemos: la alternativa condicional. Veamos un ejemplo:
 
-El `if` nos permite hacer una cosa u otra según una condición. Por ejemplo:
 
 ```javascript
 //Equivalente a Math.abs
 function valorAbsoluto(unNumero) {
    if (unNumero >= 0) {
      return unNumero;
-   else {
+   } else {
      return -unNumero;
    }
 }

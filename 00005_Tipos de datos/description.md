@@ -3,7 +3,7 @@ Como acabamos de ver en JavaScript existen al menos números y booleanos. Sin em
 |  Tipo de dato |  Representa             |  Ejemplo |  Operaciones                   |
 |---------------|-------------------------|----------|--------------------------------|
 |Números        |cantidades               | `4947`   | `+`, `-`, `*`, `%`, `<`, etc   |
-|Boolean        |valores de verdad        | `true`   | `&&`, `||`, `!`                |
+|Boolean        |valores de verdad        | `true`   | `&&`, `!`, etc              
 |Strings        |texto                    | `"hola"` | ...en breve lo veremos...      |
 |Arrays         |conjuntos de cosas       | `[1, 9]` | ...en breve lo veremos...      |
 
