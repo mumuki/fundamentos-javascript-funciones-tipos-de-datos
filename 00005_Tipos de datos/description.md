@@ -13,7 +13,7 @@ Además, existen operaciones que sirven para todos los tipos de datos, por ejemp
 * `===`: nos dice si dos cosas son iguales
 * `!==`: nos dice si dos cosas son diferentes
 
-**¡Es importante usar las operaciones correctas con los tipos de datos correctos**, por ejemplo, no tiene sentido sumar dos booleanos o hacer operaciones booleanas con los números. **Si usas operaciones que no corresponden, cosas muy raras y malas puede pasar**. :confounded:
+**Es importante usar las operaciones correctas con los tipos de datos correctos**, por ejemplo, no tiene sentido sumar dos booleanos o hacer operaciones booleanas con los números. **Si usas operaciones que no corresponden, cosas muy raras y malas puede pasar**. :confounded:
 
 > Probá en la consola las siguientes cosas:
 >
