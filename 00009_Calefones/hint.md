@@ -1,3 +1,3 @@
-¿Te acordás de las funciones `Math.min` y `Math.max` que vimos en el ejercicio anterior?
+Por un lado te recomiendo nombrar a los paramétros tipo "function cuantoCarga(tiene,carga)", esto de nombrar a las variables es una buena práctica que si la incorporas ahora te va a ayudar el resto de tu carrera y es muy útil.
 
-¡Quizás alguna de ellas te pueda ser útil!
+Por otro lado esta funcion tiene una sola línea y es la del return, y por último que función matemática podrías utilizar para saber el mínimo entre dos cosas? lo que te queda ver es que son esas dos cosas, habría que hacerle algo a alguna de esas cosas?? Observá los ejemplos que te dán, en algunos casos, "lo que querés cargar", que recibís por parámetro funciona y da eso, en otros casos (cuando rebalsa) no sirve ese número , cuál sirve?? que cálculo mental haces? Por ejemplo, si tenés calefon(22,5)-->rta = 3; osea que el 5 no me sirvió?? cómo llego a ese 3?? haciendo una resta?? que resto?? pero por otro lado, para calefon(10,5), si sirve el 5... Estos son los dos casos que tenés que reflejar en el Math.Min;
