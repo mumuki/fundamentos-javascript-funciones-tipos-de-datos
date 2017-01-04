@@ -7,7 +7,7 @@ El `if` nos permite hacer una cosa u otra según una condición. Por ejemplo:
 function valorAbsoluto(unNumero) {
    if (unNumero >= 0) {
      return unNumero;
-   else {
+   } else {
      return -unNumero;
    }
 }

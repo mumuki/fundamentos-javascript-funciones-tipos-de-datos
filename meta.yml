@@ -10,7 +10,7 @@ teacher_info: "* Funciones y Tipos de Datos, revisado\n  \n¡Hola! Quizás no te
   uso\n   * Tipos de datos, introduccion\n   * Booleanos\n   * ¡Más cuentas!\n   *
   Tirando los dados\n   * ¿Y que tal si...?"
 language: javascript
-id_format: '%05d'
+id_format: "%05d"
 order:
 - 1
 - 2
