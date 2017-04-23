@@ -1,6 +1,6 @@
 ¿Y esto con qué se come? Digo, ehm.... ¿cómo se usan estas funciones? ¿Cómo hago para pasarles parámetros y obtener resultados? 
 
-Basta con poner el nombre de la funcion, y entre paréntesis, su argumentos. ¡Es igual que en Gobstones!
+Basta con poner el nombre de la función, y entre paréntesis, sus argumentos. ¡Es igual que en Gobstones!
 
 ```javascript
 doble(3)
