@@ -14,21 +14,7 @@ Pero como no queremos que te quedes en negativo, si el monto a extraer es mayor 
 0
 ```
 
-Una posible solución es la siguiente:
-
-```javascript
-function extraer(saldo, monto) {
-  if (monto > saldo) {
-    return 0; 
-  } else {
-    return saldo - monto; 
-  }
-}
-```
-
-Hasta acá, nada nuevo. Peeeero, esto podemos pensarlo de otra forma: estamos poniendo un _tope inferior_ a la resta, que no puede dar menos de cero :open_mouth:. 
+Y acá probablemente estés pensando: _en Gobstones esto lo puedo resolver con `if`_. ¡Y tenés razón! Pero vamos a pensarlo de otra forma: estamos poniendo un _tope inferior_ a la resta, que no puede dar menos de cero :open_mouth:. 
 
 > En otras palabras, `extraer` devuelve el máximo entre la resta `saldo - monto`  y `0`. ¿Te animás a completar esta otra posible solución que está en el editor?
 > 
-> Ah, **no** vale usar `if` :wink:. 
-
