@@ -15,4 +15,6 @@ function extraer(saldo, monto) {
 Hasta acá, nada nuevo. Peeeero, esto podemos pensarlo de otra forma: estamos poniendo un _tope inferior_ a la resta, que no puede dar menos de cero. 
 
 > En otras palabras, `extraer` devuelve el máximo entre la resta `saldo - monto`  y `0`. ¿Te animás a completar esta otra posible solución que está en el editor?
+> 
+> Ah, **no** vale usar `if` :wink:
 
