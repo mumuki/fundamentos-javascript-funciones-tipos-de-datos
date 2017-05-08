@@ -7,3 +7,5 @@
 ム Math.max(100 - 120, 0)
 0 // da el máximo entre -20 y 0, que es 0
 ```
+
+
