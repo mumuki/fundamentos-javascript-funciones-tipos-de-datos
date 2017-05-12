@@ -1,4 +1,4 @@
-Una conocida banda, para agregar gritos varios a su canción, nos pidió que desarrollemos una función `gritar`, que tome un string, y lo devuelva en mayúsculas y entre signos de exclamación.
+Una conocida banda, para agregar gritos varios a su canción, nos pidió que desarrollemos una función `gritar`, que tome un string y lo devuelva en mayúsculas y entre signos de exclamación.
 
 Por ejemplo:
 
