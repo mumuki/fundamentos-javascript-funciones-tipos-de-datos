@@ -1,1 +1,4 @@
-Recordá que los signos de admiración `"¡"` `"!"` son strings.
+Tené en cuenta que:
+
+1. Los signos de admiración `"¡"` y `"!"` son strings.
+2. Los strings se pueden concatenar. 
