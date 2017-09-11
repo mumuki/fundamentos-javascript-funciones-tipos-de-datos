@@ -8,6 +8,6 @@ false
 true
 ```
 
-> Escribí, y probá en la consola, la función `esPar`. 
+> Escribí y probá en la consola, la función `esPar`. 
 > Acordate de que te podemos dar algunos tips si hacés click en _¿Necesitas Ayuda?_
 
