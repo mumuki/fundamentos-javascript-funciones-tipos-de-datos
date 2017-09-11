@@ -1,4 +1,4 @@
-Quizás ya lo notaste, pero a tu derecha ahora aparece una solapa nueva: la _consola_.
+Quizás ya lo notaste pero ahora, junto al editor, aparece una solapa nueva: la _consola_.
 
 La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo: te permite, por ejemplo, probar expresiones, funciones que vengan con JavaScript, **o incluso funciones que vos definas en el editor**.
 
