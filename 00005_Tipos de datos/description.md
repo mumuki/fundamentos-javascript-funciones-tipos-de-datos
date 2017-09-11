@@ -1,4 +1,4 @@
-Como acabamos de ver en JavaScript existen al menos números y booleanos. Sin embargo, no son los únicos tipos de datos:
+Como acabamos de ver, en JavaScript existen al menos números y booleanos. Sin embargo, no son los únicos tipos de datos:
 
 |  Tipo de dato |  Representa             |  Ejemplo |  Operaciones                   |
 |---------------|-------------------------|----------|--------------------------------|
