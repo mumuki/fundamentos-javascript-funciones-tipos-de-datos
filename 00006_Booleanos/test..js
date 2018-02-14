@@ -17,8 +17,8 @@ describe("", function() {
 })
 
 describe("estaFueraDeRango", function() {
-  it("estaFueraDeRango(10, 1, 10) es false", function() {
-    assert(!estaFueraDeRango(10, 1, 10));
+  it("estaFueraDeRango(10, 1, 10) es true", function() {
+    assert(estaFueraDeRango(10, 1, 10));
   });
   it("estaFueraDeRango(12, 1, 10) es true", function() {
     assert(estaFueraDeRango(12, 1, 10));
