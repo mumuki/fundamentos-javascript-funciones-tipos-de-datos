@@ -5,8 +5,8 @@ expectations:
 - binding: anteriorDelTriple
   inspection: Uses:anterior
 - binding: triple
-  inspection: Uses:undefined
+  inspection: Uses
 - binding: anterior
-  inspection: Uses:undefined
+  inspection: Uses
 - binding: anteriorDelTriple
-  inspection: Uses:undefined
+  inspection: Uses
